@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#btn-con{
+  padding-top: 10px;
+  
+}
+#btnrock-con{
+  padding-top: 50px;
+  
+}
+.btn-GO{
+  padding-top: 200px;
+}
+
+
